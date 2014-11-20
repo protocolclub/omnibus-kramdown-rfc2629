@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary kramdown-rfc2629 removal steps
+# after package is uninstalled.
+#
+
+echo "kramdown-rfc2629 has been uninstalled!"
+
+exit 0
