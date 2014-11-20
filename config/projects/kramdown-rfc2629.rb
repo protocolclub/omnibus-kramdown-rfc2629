@@ -1,7 +1,7 @@
 
 name 'kramdown-rfc2629'
-maintainer 'CHANGE ME'
-homepage 'https://CHANGE-ME.com'
+maintainer 'Mike English'
+homepage 'https://protocol.club/~englishm'
 
 install_dir     '/opt/kramdown-rfc2629'
 build_version   Omnibus::BuildVersion.semver
