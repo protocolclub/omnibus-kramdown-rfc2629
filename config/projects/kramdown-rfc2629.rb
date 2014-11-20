@@ -11,7 +11,7 @@ build_iteration 1
 dependency 'preparation'
 
 # kramdown-rfc2629 dependencies/components
-# dependency 'somedep'
+dependency 'kramdown-rfc2629'
 
 # version manifest file
 dependency 'version-manifest'
