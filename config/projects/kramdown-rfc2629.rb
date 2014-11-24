@@ -4,7 +4,7 @@ maintainer 'Mike English'
 homepage 'https://protocol.club/~englishm'
 
 install_dir     '/opt/kramdown-rfc2629'
-build_version   Omnibus::BuildVersion.semver
+build_version   '1.0.20'
 build_iteration 1
 
 # creates required build directories
