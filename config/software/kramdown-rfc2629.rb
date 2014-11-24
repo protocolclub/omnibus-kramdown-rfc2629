@@ -13,9 +13,4 @@ dependency "rubygems"
 
 build do
   gem "install kramdown-rfc2629 -n #{install_dir}/bin --no-rdoc --no-ri -v #{version}"
-  command "rm -rf /opt/scout/embedded/docs"
-  command "rm -rf /opt/scout/embedded/share/man"
-  command "rm -rf /opt/scout/embedded/share/doc"
-  command "rm -rf /opt/scout/embedded/ssl/man"
-  command "rm -rf /opt/scout/embedded/info"
 end
