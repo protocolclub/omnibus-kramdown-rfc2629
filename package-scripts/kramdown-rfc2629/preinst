@@ -1,0 +1,7 @@
+#!/bin/bash
+#
+# Perform necessary kramdown-rfc2629 setup steps
+# before package is installed.
+#
+
+echo "You're about to install kramdown-rfc2629!"
